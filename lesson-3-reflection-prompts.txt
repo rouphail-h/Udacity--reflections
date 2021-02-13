@@ -10,4 +10,17 @@ may be these changes are done by someone else, may they need to be reviewed
 first before to be added to my own project.
 but indeed in many cases, i would think it is ok to have the changes updated
 automatically to my own computer, since we have this kind of version control
-so it would be ok to have the changes updated automatically. 
+so it would be ok to have the changes updated automatically.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+forks is used on the website, Github, it is used when you need to copy a
+repository from someone to your own page.
+clone is creating a copy (image), from the web to your machine, or from a
+machine to another machine. it is the same concept as fork, but just the term
+'fork' is applied by Github.
+branches is adding a new path to your version of modifications, it is like
+doing some modifications but in another path different than the main one,
+like if you are doing experiments or some fancy trials, and you dont want to
+affect your original work.
+the 3 are different concepts and they are used in different situations indeed. 
