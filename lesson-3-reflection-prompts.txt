@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+well, in some cases when you are working online from another computer, or maye be if you are sending your work to a colleague and want him to see it or edit it.
+or may be it is easier, specially if it is just a plain text file. 
