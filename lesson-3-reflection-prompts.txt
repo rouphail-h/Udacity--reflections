@@ -1,3 +1,13 @@
-When would you want to use a remote repository rather than keeping all your work local?
-well, in some cases when you are working online from another computer, or maye be if you are sending your work to a colleague and want him to see it or edit it.
-or may be it is easier, specially if it is just a plain text file. 
+When would you want to use a remote repository rather than keeping all your work
+local?
+well, in some cases when you are working online from another computer, or may
+be if you are sending your work to a colleague and want him to see it or edit it.
+or may be it is just easier, specially if it is just a plain text file.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+may be these changes are done by someone else, may they need to be reviewed
+first before to be added to my own project.
+but indeed in many cases, i would think it is ok to have the changes updated
+automatically to my own computer, since we have this kind of version control
+so it would be ok to have the changes updated automatically. 
