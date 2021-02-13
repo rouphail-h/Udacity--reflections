@@ -13,14 +13,34 @@ it offers the space where you are working before committing your saving.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+by checking the 'git status' before committing the change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+of course it is interesting, as you can develop in different directions, not
+only one, where you can try to make changes over multiple paths, and not just
+one path.
+It is easier to divide work into some paths when needed and organize them.
 
 How do the diagrams help you visualize the branch structure?
+as i understand, a diagram is the good way to draw the structures and the flow
+of work from one version to another
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the result is merging the modifications from one branch to the last modifications
+from the other, i.e. me get one version containing the modifications from both
+branches.
+it is logical to be represented in the diagram in this way, as the result is
+actually the result coming from both branches all the way to the last one.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic merging,
+pros: efficient, easy, making it easy step
+cons: may have bugs, may not be what is exactly needed, may include extra items,
+or may exclude needed items
+manually merging,
+pros: good control of what you want to include in your merge, giving more control
+of the output
+cons: may be too hard, long, may be complicated, rendering merge harder step.
