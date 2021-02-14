@@ -23,4 +23,9 @@ branches is adding a new path to your version of modifications, it is like
 doing some modifications but in another path different than the main one,
 like if you are doing experiments or some fancy trials, and you dont want to
 affect your original work.
-the 3 are different concepts and they are used in different situations indeed. 
+they 3 are different concepts and they are used in different situations indeed.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+if it is a program, you may need to run it , so you would need it on your machine
+also, you may need to work on it while offline, or you are out of connection. 
