@@ -28,4 +28,21 @@ they 3 are different concepts and they are used in different situations indeed.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 if it is a program, you may need to run it , so you would need it on your machine
-also, you may need to work on it while offline, or you are out of connection. 
+also, you may need to work on it while offline, or you are out of connection.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+i could make the modifications and send them via email to my colleague, or
+on a usb device.
+of course , it is a lot easier using Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+I think it is better to work on a branch than on the master, at least it gives
+others the opportunity to review your changes before incorporating them into
+the main file, and in case they have any problems, like bugs or others, they don't
+affect the main work, but leaving it intact.
+Well, you work directly on the master, mainly if you are the main developer on 
+the project, so you are working on the core items, in other cases, if you are
+doing minor changes related to the core work of the master branch, otherwise,
+get your work first in a branch, before merging it to the master.
